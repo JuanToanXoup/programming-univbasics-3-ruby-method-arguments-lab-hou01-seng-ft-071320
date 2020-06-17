@@ -1,3 +1,6 @@
+name = "John"
+language = "Javascipt"
+
 def introduction name
   puts "Hi, my name is #{name}."
 end
